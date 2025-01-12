@@ -1,0 +1,1 @@
+/Users/argus/Desktop/Programming/RustProjects/restaurant/target/debug/restaurant: /Users/argus/Desktop/Programming/RustProjects/restaurant/src/lib.rs /Users/argus/Desktop/Programming/RustProjects/restaurant/src/main.rs
