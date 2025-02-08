@@ -1,0 +1,1 @@
+/Users/argus/Desktop/Programming/RustProjects/traits/target/debug/aggregator: /Users/argus/Desktop/Programming/RustProjects/traits/src/lib.rs /Users/argus/Desktop/Programming/RustProjects/traits/src/main.rs
