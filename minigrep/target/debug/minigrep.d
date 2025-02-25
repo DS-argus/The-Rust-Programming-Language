@@ -1,0 +1,1 @@
+/Users/argus/Desktop/Programming/RustProjects/minigrep/target/debug/minigrep: /Users/argus/Desktop/Programming/RustProjects/minigrep/src/lib.rs /Users/argus/Desktop/Programming/RustProjects/minigrep/src/main.rs
